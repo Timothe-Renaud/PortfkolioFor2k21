@@ -1,6 +1,5 @@
 import React from "react";
 import styled from "styled-components";
-import posed from "react-pose";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import Blog from "./components/Blog";
 import Contact from "./components/Contact";
@@ -83,34 +82,34 @@ animation-fill-mode:both;
 }
 `;
 
-const ScrollDiv = styled.div`
-  position: relative;
-  overflow: hidden;
-  width: auto;
-  height: 35rem;
-`;
+// const ScrollDiv = styled.div`
+//   position: relative;
+//   overflow: hidden;
+//   width: auto;
+//   height: 35rem;
+// `;
 
-const Modal = posed.div({
-  enter: {
-    y: 0,
-    opacity: 1,
-    delay: 300,
-    transition: {
-      y: { type: "spring", stiffness: 1000, damping: 15 },
-      default: { duration: 300 }
-    }
-  },
-  exit: {
-    y: 50,
-    opacity: 0,
-    transition: { duration: 150 }
-  }
-});
+// const Modal = posed.div({
+//   enter: {
+//     y: 0,
+//     opacity: 1,
+//     delay: 300,
+//     transition: {
+//       y: { type: "spring", stiffness: 1000, damping: 15 },
+//       default: { duration: 300 }
+//     }
+//   },
+//   exit: {
+//     y: 50,
+//     opacity: 0,
+//     transition: { duration: 150 }
+//   }
+// });
 
-const Shade = posed.div({
-  enter: { opacity: 1 },
-  exit: { opacity: 0 }
-});
+// const Shade = posed.div({
+//   enter: { opacity: 1 },
+//   exit: { opacity: 0 }
+// });
 
 const MainContentCard = props => {
   return (

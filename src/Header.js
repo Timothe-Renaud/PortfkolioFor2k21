@@ -380,18 +380,18 @@ const Header = () => {
         <Profilediv>
           <ImageCard />
           <ProfileImage>
-            <img src={johndoe} />
+            <img src={johndoe} alt="the_my PP"/>
           </ProfileImage>
           <ProfileTitle>Langlois - Teston Timothé - Renaud</ProfileTitle>
           <ProfileSubTitle>Administrateur Système et réseau</ProfileSubTitle>
           <SocialDiv>
-            <a target="_blank" href="https://twitter.com/timothe_renaud">
+            <a href="https://twitter.com/timothe_renaud">
               <TwitterIcon />
             </a>
-            <a target="_blank" href="https://github.com/Timothe-Renaud">
+            <a href="https://github.com/Timothe-Renaud">
               <GithubIcon />
             </a>
-            <a target="_blank" href="https://www.linkedin.com/in/timothe-renaud-langlois-teston-9329b9151/">
+            <a href="https://www.linkedin.com/in/timothe-renaud-langlois-teston-9329b9151/">
               <LinkedInIcon />
             </a>            
           </SocialDiv>

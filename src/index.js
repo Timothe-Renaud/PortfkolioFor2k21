@@ -4,7 +4,12 @@ import Header from "./Header";
 import Container from "./Container";
 import MainContent from "./MainContent";
 import styled from "styled-components";
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { 
+  BrowserRouter as Router,
+   Route,
+   Switch,
+   Link 
+  } from "react-router-dom";
 import WebFont from "webfontloader";
 
 WebFont.load({

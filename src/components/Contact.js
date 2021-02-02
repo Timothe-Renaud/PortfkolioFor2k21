@@ -12,7 +12,7 @@ const Contact = () => {
             <TextBox>
             <ul class="list-group list-group-flush">
               <li class="list-group-item">
-                <a href="#"> @Timothe_Renaud </a> on Twitter
+                <strong>@Timothe_Renaud</strong> on Twitter
               </li>
               <li class="list-group-item">
                 <a href="https://www.linkedin.com/in/timothe-renaud-langlois-teston-9329b9151/"> mon Linkedin </a>

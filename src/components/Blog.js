@@ -10,7 +10,7 @@ const Blog = () => {
           <Col>
             <TextBox>
               <div class="list-group">
-                <a class="list-group-item list-group-item-action"> 
+                <button class="list-group-item list-group-item-action"> 
                   <table>
                   <thead>
                     <tr>
@@ -49,28 +49,28 @@ const Blog = () => {
                     </tr>
                   </tbody>  
                 </table>
-              </a>
+              </button>
 
               </div>
               <div class="list-group">
                 <p> - Techs & Tools :</p>
-                <a class="list-group-item list-group-item-action list-group-item-primary">  Microsoft Active Directory - Hyper-V - Samba 4 - Docker - FireWall Stormshield - Linux - GIT - Nginx - traefik </a>
+                <button class="list-group-item list-group-item-action list-group-item-primary">  Microsoft Active Directory - Hyper-V - Samba 4 - Docker - FireWall Stormshield - Linux - GIT - Nginx - traefik </button>
               </div>
               <div class="list-group">
               <p>- Langages :</p>
-                <a class="list-group-item list-group-item-action"> Bash - Powershell - Javscript - PHP - SQL</a>
+                <button class="list-group-item list-group-item-action"> Bash - Powershell - Javscript - PHP - SQL</button>
               </div>
               <div class="list-group">
               <p>- Framework :</p>
-                <a class="list-group-item list-group-item-action list-group-item-primary"> React.js - Angular.js - Electron.js - Symfony 4 - Doctrine - Entity - PHPUnit - Pester</a>
+                <button class="list-group-item list-group-item-action list-group-item-primary"> React.js - Angular.js - Electron.js - Symfony 4 - Doctrine - Entity - PHPUnit - Pester</button>
               </div>
               <div class="list-group">
               <p>- Database :</p>
-                <a class="list-group-item list-group-item-action"> MySql - Oracle - FireBase - PosgreSQL</a>
+                <button class="list-group-item list-group-item-action"> MySql - Oracle - FireBase - PosgreSQL</button>
               </div>
               <div class="list-group">
               <p>- Soft skills :</p>
-                <a class="list-group-item list-group-item-action list-group-item-primary"> Méthodes Agiles, CI/CD, Certifié ANSSI, Communication, TOEIC - B2 ( 2017 & 2019 ), Responsable SSI, Permits B et 2 roues, Audio production et MAO, Production video, Curieux , Facteur de bonne humeur, jeune aventurier.</a>
+                <button class="list-group-item list-group-item-action list-group-item-primary"> Méthodes Agiles, CI/CD, Certifié ANSSI, Communication, TOEIC - B2 ( 2017 & 2019 ), Responsable SSI, Permits B et 2 roues, Audio production et MAO, Production video, Curieux , Facteur de bonne humeur, jeune aventurier.</button>
               </div>
             </TextBox>
           </Col>
