@@ -1,18 +1,16 @@
-import React, { Component } from "react";
+import React  from "react";
 import styled from "styled-components";
 import johndoe from "./images/john_doe.png";
 
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { AddressCard } from "styled-icons/fa-regular/AddressCard";
 import { ClipboardCheck } from "styled-icons/fa-solid/ClipboardCheck";
 import { Columns } from "styled-icons/fa-solid/Columns";
 import { Cubes } from "styled-icons/fa-solid/Cubes";
 import { Envelope } from "styled-icons/fa-solid/Envelope";
 import { Twitter } from "styled-icons/fa-brands/Twitter";
-import { Codepen } from "styled-icons/fa-brands/Codepen";
 import { Github } from "styled-icons/fa-brands/Github";
 import { Linkedin } from "styled-icons/fa-brands/Linkedin";
-import { Medium } from "styled-icons/fa-brands/Medium";
 import codesandboxlogo from "./images/codesandboxlogo.png";
 
 const MainDiv = styled.div`
