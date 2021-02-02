@@ -11,7 +11,6 @@ import { Envelope } from "styled-icons/fa-solid/Envelope";
 import { Twitter } from "styled-icons/fa-brands/Twitter";
 import { Github } from "styled-icons/fa-brands/Github";
 import { Linkedin } from "styled-icons/fa-brands/Linkedin";
-import codesandboxlogo from "./images/codesandboxlogo.png";
 
 const MainDiv = styled.div`
 position:relative;
@@ -45,9 +44,6 @@ const getSocialIcon = (component, color) => {
   `;
 };
 
-const CodeSanBoxImage = () => (
-  <img style={{ height: "17px", width: "18px" }} src={codesandboxlogo} />
-);
 const ProfileCardIcon = getIcon(AddressCard);
 const ExperienceIcon = getIcon(ClipboardCheck);
 const BlogIcon = getIcon(Columns);
@@ -388,7 +384,6 @@ const Header = () => {
           </ProfileImage>
           <ProfileTitle>Langlois - Teston Timothé - Renaud</ProfileTitle>
           <ProfileSubTitle>Administrateur Système et réseau</ProfileSubTitle>
-
           <SocialDiv>
             <a target="_blank" href="https://twitter.com/timothe_renaud">
               <TwitterIcon />

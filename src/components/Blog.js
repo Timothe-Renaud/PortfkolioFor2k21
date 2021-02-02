@@ -1,5 +1,4 @@
 import React from "react";
-import styled from "styled-components";
 import { Contentdiv, TitleDiv, Row, Col, TextBox } from "./styles/commonstyle";
 
 const Blog = () => {
@@ -11,7 +10,7 @@ const Blog = () => {
           <Col>
             <TextBox>
               <div class="list-group">
-                <a href="#" class="list-group-item list-group-item-action"> 
+                <a class="list-group-item list-group-item-action"> 
                   <table>
                   <thead>
                     <tr>
@@ -55,23 +54,23 @@ const Blog = () => {
               </div>
               <div class="list-group">
                 <p> - Techs & Tools :</p>
-                <a href="#" class="list-group-item list-group-item-action list-group-item-primary">  Microsoft Active Directory - Hyper-V - Samba 4 - Docker - FireWall Stormshield - Linux - GIT - Nginx - traefik </a>
+                <a class="list-group-item list-group-item-action list-group-item-primary">  Microsoft Active Directory - Hyper-V - Samba 4 - Docker - FireWall Stormshield - Linux - GIT - Nginx - traefik </a>
               </div>
               <div class="list-group">
               <p>- Langages :</p>
-                <a href="#" class="list-group-item list-group-item-action"> Bash - Powershell - Javscript - PHP - SQL</a>
+                <a class="list-group-item list-group-item-action"> Bash - Powershell - Javscript - PHP - SQL</a>
               </div>
               <div class="list-group">
               <p>- Framework :</p>
-                <a href="#" class="list-group-item list-group-item-action list-group-item-primary"> React.js - Angular.js - Electron.js - Symfony 4 - Doctrine - Entity - PHPUnit - Pester</a>
+                <a class="list-group-item list-group-item-action list-group-item-primary"> React.js - Angular.js - Electron.js - Symfony 4 - Doctrine - Entity - PHPUnit - Pester</a>
               </div>
               <div class="list-group">
               <p>- Database :</p>
-                <a href="#" class="list-group-item list-group-item-action"> MySql - Oracle - FireBase - PosgreSQL</a>
+                <a class="list-group-item list-group-item-action"> MySql - Oracle - FireBase - PosgreSQL</a>
               </div>
               <div class="list-group">
               <p>- Soft skills :</p>
-                <a href="#" class="list-group-item list-group-item-action list-group-item-primary"> Méthodes Agiles, CI/CD, Certifié ANSSI, Communication, TOEIC - B2 ( 2017 & 2019 ), Responsable SSI, Permits B et 2 roues, Audio production et MAO, Production video, Curieux , Facteur de bonne humeur, jeune aventurier.</a>
+                <a class="list-group-item list-group-item-action list-group-item-primary"> Méthodes Agiles, CI/CD, Certifié ANSSI, Communication, TOEIC - B2 ( 2017 & 2019 ), Responsable SSI, Permits B et 2 roues, Audio production et MAO, Production video, Curieux , Facteur de bonne humeur, jeune aventurier.</a>
               </div>
             </TextBox>
           </Col>

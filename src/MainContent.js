@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
-import posed, { PoseGroup } from "react-pose";
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import posed from "react-pose";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 import Blog from "./components/Blog";
 import Contact from "./components/Contact";
 import Profile from "./components/Profile";

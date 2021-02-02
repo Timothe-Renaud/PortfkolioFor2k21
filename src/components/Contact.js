@@ -1,5 +1,4 @@
 import React from "react";
-import styled from "styled-components";
 import { Contentdiv, TitleDiv, Row, Col, TextBox } from "./styles/commonstyle";
 
 const Contact = () => {
@@ -31,7 +30,7 @@ const Contact = () => {
                 <a href="http://www.lycee-cisson.fr/index.php">Ma formation Pro</a>
               </li>
               <li class="list-group-item">
-              <a href="mailto:timothe-renaud.langlois-teston@intradef.gouv.fr">@email</a>
+                <a href="mailto:timothe-renaud.langlois-teston@intradef.gouv.fr">@email</a>
               </li>
             </ul>                  
             </TextBox>

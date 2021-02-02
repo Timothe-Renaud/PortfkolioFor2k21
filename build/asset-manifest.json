@@ -1,13 +1,12 @@
 {
-  "main.js": "/static/js/main.95464ba5.chunk.js",
-  "main.js.map": "/static/js/main.95464ba5.chunk.js.map",
-  "static/js/1.9948ccb5.chunk.js": "/static/js/1.9948ccb5.chunk.js",
-  "static/js/1.9948ccb5.chunk.js.map": "/static/js/1.9948ccb5.chunk.js.map",
+  "main.js": "/static/js/main.4c25a802.chunk.js",
+  "main.js.map": "/static/js/main.4c25a802.chunk.js.map",
+  "static/js/1.a686679b.chunk.js": "/static/js/1.a686679b.chunk.js",
+  "static/js/1.a686679b.chunk.js.map": "/static/js/1.a686679b.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/media/john_doe.png": "/static/media/john_doe.aecb9261.png",
-  "static/media/codesandboxlogo.png": "/static/media/codesandboxlogo.2c947078.png",
   "index.html": "/index.html",
-  "precache-manifest.6e5cd874bc0df375f5367441e0fc04a5.js": "/precache-manifest.6e5cd874bc0df375f5367441e0fc04a5.js",
+  "precache-manifest.17f0ea3bccdb2a7303ef4c49e20359bf.js": "/precache-manifest.17f0ea3bccdb2a7303ef4c49e20359bf.js",
   "service-worker.js": "/service-worker.js"
 }

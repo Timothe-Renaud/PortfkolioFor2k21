@@ -1,5 +1,4 @@
 import React from "react";
-import styled from "styled-components";
 import { Contentdiv, TitleDiv, Row, Col, TextBox } from "./styles/commonstyle";
 
 const Experience = () => {
