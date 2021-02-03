@@ -171,7 +171,7 @@ class Profile extends React.Component {
                 <p>
                 Actuellement administrateur système et réseau pour la Direction Générale de l'Armement dans le 94, et ayant validé un BTS SIO - SLAM à Toulon (83), 
                 j'ai toujours été intéressé par l'informatique, la cybersecurité, le Web et la programmation. 
-                Ce portfolio existe dans ce but de représenter mon cursus scolaire ainsi que mes projets et mes compétences.
+                Ce portfolio existe dans le but de représenter mon cursus scolaire ainsi que mes projets et mes compétences.
                 </p>
               </TextBox>
 
@@ -211,7 +211,7 @@ class Profile extends React.Component {
                 <SkillItemName>
                   Audit & Cybersécurité
                   <p>
-                    Application de patch de sécurité sur SI Secréte défence, mise en place de solution de sécurité physique & virtuel ( Station Blanche, antivirus et Firewall ).
+                    Application de patch de sécurité sur SI Séc Déf, mise en place de solution de sécurité physique & virtuelle ( Station Blanche, antivirus et Firewall ).
                   </p>
                 </SkillItemName>
               </SkillItemDiv>
@@ -222,7 +222,7 @@ class Profile extends React.Component {
                 <SkillItemName>
                   Virtualisation et monitoring
                   <p>
-                    Virtualisation de serveur, d'environnement de travail a distance et de service avec Docker, Hyper-V & VMWare.
+                    Virtualisation de serveur, d'environnement de travail à distance et de service avec Docker, Hyper-V & VMWare.
                   </p>
                 </SkillItemName>
               </SkillItemDiv>
@@ -230,7 +230,7 @@ class Profile extends React.Component {
               <SkillItemDiv>
                 <SkillItemName>
                   Automatisation de process et scripting
-                  <p>Automatisation de sauvegarde, de deploiment de configuration et de création de profile.</p>
+                  <p>Automatisation de sauvegarde, de deploiement de configuration et de création de profil.</p>
                 </SkillItemName>
               </SkillItemDiv>
             </MediaCol>

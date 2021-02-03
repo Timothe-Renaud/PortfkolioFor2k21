@@ -9,7 +9,7 @@ const Experience = () => {
         <Row>
           <Col>
             <TextBox>
-              <strong>Centre d'analise Technico - Opérationnel de défense - DGA</strong>
+              <strong>Centre d'Analise Technico - Opérationnel de défense - DGA</strong>
               <p>
                 Affecté au CATOD en 2019 suite à l'obtention d'un concour d'etat et d'un BTS SIO (Service Informatique au Organisation), j'y éffectue des tâches d'administration de SI, d'automatisation de tâches, du dépannage utilisateurs.
                 Mais aussi des audits de sécurité ( matériel & logiciel) du teste de monté en charge, de la Virtualisation de serveurs et de services. 

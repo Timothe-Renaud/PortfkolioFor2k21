@@ -18,7 +18,7 @@ const Contact = () => {
                 <a href="https://www.linkedin.com/in/timothe-renaud-langlois-teston-9329b9151/"> mon Linkedin </a>
               </li>
               <li class="list-group-item">
-                <a href="https://www.pearltrees.com/"> Veuille Technologie  </a>
+                <a href="https://www.pearltrees.com/"> Veille Technologie  </a>
               </li>
               <li class="list-group-item">
                 <a href="https://github.com/Timothe-Renaud"> GitHub </a>

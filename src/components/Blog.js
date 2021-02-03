@@ -5,7 +5,7 @@ const Blog = () => {
   return (
     <React.Fragment>
       <Contentdiv>
-        <TitleDiv>Diplomes & skills</TitleDiv>
+        <TitleDiv>Diplômes & skills</TitleDiv>
         <Row>
           <Col>
             <TextBox>
@@ -15,7 +15,7 @@ const Blog = () => {
                   <thead>
                     <tr>
                       <td class="col">
-                        <strong>Diplomes</strong>
+                        <strong>Diplômes</strong>
                       </td>
                       <td class="col">
                         <strong>Année</strong>
@@ -28,7 +28,7 @@ const Blog = () => {
                       BTS Services informatiques aux organisations option solutions logicielles et applications métiers (SLAM).
                       </td>
                       <td>
-                        2019
+                        2017 - 2019
                       </td>
                     </tr>
                     <tr>
@@ -36,7 +36,7 @@ const Blog = () => {
                       Bac professionnel SN - systèmes électonique et numériques( SEN ).
                       </td>
                       <td>
-                        2017
+                        2014 - 2017
                       </td>
                     </tr>
                     <tr>
@@ -70,7 +70,7 @@ const Blog = () => {
               </div>
               <div class="list-group">
               <p>- Soft skills :</p>
-                <button class="list-group-item list-group-item-action list-group-item-primary"> Méthodes Agiles, CI/CD, Certifié ANSSI, Communication, TOEIC - B2 ( 2017 & 2019 ), Responsable SSI, Permits B et 2 roues, Audio production et MAO, Production video, Curieux , Facteur de bonne humeur, jeune aventurier.</button>
+                <button class="list-group-item list-group-item-action list-group-item-primary"> Méthodes Agiles, CI/CD, Certifié ANSSI, Communication, TOEIC - B2 ( 2017 & 2019 ), Responsable SSI, Permis B et 2 roues, Audio production et MAO, Production video, Curieux , Facteur de bonne humeur, jeune aventurier.</button>
               </div>
             </TextBox>
           </Col>
